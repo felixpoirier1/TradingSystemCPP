@@ -30,3 +30,36 @@
 *.exe
 *.out
 *.app
+
+# Data files
+/data
+
+# CMake generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+CMakeLists.txt.user
+
+# Build directory
+build/
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Executables
+*.exe
+*.out
+
+# Miscellaneous
+*~
+
+# VSCode
+.vscode/
