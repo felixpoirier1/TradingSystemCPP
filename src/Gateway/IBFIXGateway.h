@@ -1,3 +1,4 @@
+#pragma once
 #include "BaseGateway.h"
 
 class IBFIXGateway : public BaseGateway{
